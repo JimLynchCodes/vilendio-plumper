@@ -1,0 +1,24 @@
+{
+  "name": "vilendio-plumper",
+  "version": "1.0.0",
+  "description": "nothing to see here!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimLynchCodes/vilendio-plumper.git"
+  },
+  "keywords": [],
+  "author": "JimLynchCodes <jim.lynch@evaluates2.com> (https://evaluates2.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimLynchCodes/vilendio-plumper/issues"
+  },
+  "homepage": "https://github.com/JimLynchCodes/vilendio-plumper#readme",
+  "dependencies": {
+    "cypress": "^9.3.1",
+    "cypress-webpack-preprocessor-v5": "^5.0.0-alpha.1"
+  }
+}
